@@ -10,18 +10,6 @@ Programme console en Java qui affiche un menu interactif permettant à l'utilisa
 - Utiliser les arguments variables (`int...`) pour des méthodes flexibles (`moyenne`, `maximum`)
 - Mettre en place une boucle `do-while` et une structure `switch` pour diriger le programme
 
-## Prérequis
-
-- JDK installé (version 8 ou supérieure)
-- Un IDE (IntelliJ, Eclipse, VS Code) ou simplement un terminal avec `javac` et `java`
-
-## Compilation et exécution
-
-```bash
-javac Menu.java
-java Menu
-```
-
 ## Étape 1 : Affichage du menu principal
 
 Le programme affiche un menu avec 5 options : addition, multiplication, moyenne, recherche du plus grand, et quitter.
@@ -174,7 +162,9 @@ Capture d'écran : scénario complet du menu jusqu'à la sortie
 ## Structure du projet
 
 ```
-├── Menu.java
+TP-1-Bases-de-Java/
+├── base_de_Java/
+│   └── Menu.java
 ├── README.md
 └── captures/
     ├── 1.png
@@ -193,4 +183,4 @@ Capture d'écran : scénario complet du menu jusqu'à la sortie
 
 ## Auteur
 
-Soufiane — TP Java, Master DSIE, ENS Marrakech
+Soufiane Ait Hmad — TP Java  - ENS Marrakech
